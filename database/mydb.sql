@@ -1,1 +1,3 @@
--- write the code 
+DROP DATABASE IF EXISTS myblogdb;
+CREATE DATABASE myblogdb;
+USE myblogdb;
