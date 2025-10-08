@@ -1,8 +1,9 @@
 <header class="absolute inset-x-0 top-0 z-50 bg-gray-900">
     <nav aria-label="Global" class="flex items-center justify-between p-6 lg:px-8">
         <!-- Logo -->
-        <div class="flex lg:flex-1">
+        <div class="flex flex-row gap-4">
             <a href="/" class="text-xl font-semibold text-white">Webshop</a>
+            <img src="./assets/logo/logo.png" alt=" my logo" class="rounded-2 w-15">
         </div>
 
         <!-- Mobile Menu Button -->
