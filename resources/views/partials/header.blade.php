@@ -21,11 +21,11 @@
         <!-- Desktop Navigation -->
         <div class="hidden lg:flex lg:gap-x-12">
             <a href="/events" class="text-xl font-semibold text-white hover:text-pink-500">Home</a>
-            <a href="/stands" class="text-xl font-semibold text-white hover:text-pink-500">Stands</a>
-            
+            <a href="/stands" class="text-xl font-semibold text-white hover:text-pink-500">Shop</a>
+
         </div>
 
-       
+
     </nav>
 </header>
 
@@ -58,7 +58,7 @@
                             <a href="/Shop"
                                 class="-mx-3 block rounded-lg px-3 py-2 text-lg font-semibold text-white hover:bg-white/5 hover:text-[var(--color-accent)]">Shop</a>
                         </div>
-                        
+
                     </div>
                 </div>
 
