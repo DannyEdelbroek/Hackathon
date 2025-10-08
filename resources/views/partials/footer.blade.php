@@ -4,7 +4,7 @@
         <!-- Column 1: Branding -->
         <div class="flex flex-col text-center">
             <h2 class="text-xl font-bold mb-4 text-[var(--color-accent)]">WebShop</h2>
-            <p class="text-gray-400">The ultimate sneaker hub. Discover, buy, and sell sneakers worldwide.</p>
+            <p class="text-gray-400">The ultimate sneaker hub. Discover, buy, and sell worldwide.</p>
         </div>
 
         <!-- Column 2: Navigation -->
@@ -33,6 +33,6 @@
     </div>
 
     <div class="flex flex-col text-center text-gray-500 mt-10 text-sm">
-        &copy; 2025 Sneakerness. All rights reserved.
+        &copy; 2025 webShop. All rights reserved.
     </div>
 </footer>
