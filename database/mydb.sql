@@ -40,9 +40,13 @@ VALUES
 ,(2, 'schoen', '20.05');
 
 
---
--- Table structure for table `Colors`
---
+-- Step: 03
+-- Goal: Create table Colors
+-- **********************************************************************************
+-- Version       Date:           Author:                     Description:
+-- *******       **********      ****************            ******************
+-- 01            8-10-2025          Omid                       New
+-- **********************************************************************************/
 
 DROP TABLE IF EXISTS `Colors`;
 CREATE TABLE IF NOT EXISTS `Colors` (
@@ -56,9 +60,9 @@ CREATE TABLE IF NOT EXISTS `Colors` (
   ,PRIMARY KEY (`Id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
---
--- Dumping data for table `Colors`
---
+-- Step: 03
+-- Goal: Fill table Colors with data
+-- **********************************************************************************
 
 INSERT INTO `Colors` (`Coulor_Id`, `name`, `price_add`, `IsActief`, `Opmerkingen`) VALUES
 (1, 'Blouw', '0', b'1', NULL),
